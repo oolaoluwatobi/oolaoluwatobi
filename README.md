@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Olaoluwa Tobi Oladipo
 #### Web and Mobile Development
-![Web and Mobile Development](https://pbs.twimg.com/profile_banners/843782854773555200/1671995079/600x200)
+![Web and Mobile Development](https://github.com/oolaoluwatobi/oolaoluwatobi/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 
 I'm Olaoluwa from Nigeria. I'm a Software developer with a passion for building modern, responsive web apps. I really enjoy learning languages and frameworks like React and React Native.
 
