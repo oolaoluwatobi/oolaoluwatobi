@@ -5,6 +5,7 @@ I'm Olaoluwa from Nigeria. I'm a Software developer with a passion for building 
 
 ## Skills and Experience
 - ⚛ React
+- TypeScript 
 -  📱 React Native
 -  💻 HTML, CSS, JS
 -  Nodejs
