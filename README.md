@@ -4,10 +4,11 @@
 I'm Olaoluwa from Nigeria. I'm a Software developer with a passion for building modern, responsive web apps. I really enjoy learning languages and frameworks like React, React Native, Nodejs, Express, MongoDB.
 
 ## Skills and Experience
-- ⚛ React
-- TypeScript 
--  📱 React Native
--  💻 HTML, CSS, JS
+-  React
+-  TypeScript
+-  Next
+-  React Native
+-  HTML, CSS, JS
 -  Nodejs
 -  Express
 -  MongoDB
