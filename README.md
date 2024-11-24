@@ -1,7 +1,7 @@
 ![Web and Mobile Development](https://github.com/oolaoluwatobi/oolaoluwatobi/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(2).png)
 
 # Olaoluwa Tobi Oladipo
-I'm Olaoluwa from Nigeria. I'm a Software developer with a passion for building modern, responsive web apps. I really enjoy learning languages and frameworks like React, React Native, Nodejs, Express, MongoDB.
+I'm Olaoluwa from Nigeria. I'm a Software engineer with a passion for building modern, responsive full stack web apps. I have worked with Javascipt, Python, SQL, React, Expo React Native, Nodejs, Nestjs, Express, MongoDB.
 
 ## Skills and Experience
 -  HTML, CSS, JS
